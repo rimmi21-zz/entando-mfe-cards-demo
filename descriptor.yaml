@@ -1,5 +1,5 @@
-code: ent-prj-tmpl-bundle
-description: Template for ent projects
+code: cards-section-app
+description: List of Cards
 components:
   widgets:
-    - ui/widgets/widgets-dir/et-widget/et-widget-descriptor.yaml
+    - ui/widgets/widgets-dir/cards/cards-descriptor.yaml
